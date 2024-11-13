@@ -1,5 +1,7 @@
 1.1 General Security Concepts 
+
 Objective: Compare and Contrast various types of security controls
+
 Technical Controls:
 These are put into practice by using technology to automate security procedures. To control access and safeguard resources and systems, they incorporate hardware or software techniques.
 
