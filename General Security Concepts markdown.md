@@ -2,7 +2,7 @@
 
 Objective: Compare and Contrast various types of security controls
 
-Technical Controls: These are put into practice by using technology to automate security procedures. To control access and safeguard resources and systems, they incorporate hardware or software techniques.
+Technical Controls: These are put into practice by using technology to automate security procedures. To control access and safeguard resources and systems, they incorporate hardware or software techniques. </div> 
 Examples: Firewalls, encryption, access controls.
 Purpose: Safeguarding systems, networks, and data from unauthorized access or alterations. Effective security involves a combination of technical, managerial, operational, and physical controls for comprehensive protection.
 
