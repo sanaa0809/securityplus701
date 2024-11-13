@@ -30,6 +30,7 @@ Examples: Biometric access, locks, surveillance systems.
 Purpose: Protecting physical assets, restricting access to sensitive areas.
 
 
+
 * Technical vs. Managerial:
   
 Technical: Creates, installs, and keeps track of spyware, malware, and updated security measures on devices.
@@ -99,6 +100,7 @@ Purpose: Compensate for weaknesses in other controls.
 Examples: Policies, standards, procedures.
 
 Purpose: Guide individuals and organizations in adhering to security requirements.
+
 
 
 * Preventive vs. Detective:
