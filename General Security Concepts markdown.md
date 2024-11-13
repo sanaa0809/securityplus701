@@ -1,130 +1,138 @@
 1.1 General Security Concepts 
+Objective: Compare and Contrast various types of security controls
+Technical Controls:
+These are put into practice by using technology to automate security procedures. To control access and safeguard resources and systems, they incorporate hardware or software techniques.
 
-* Objective: Compare and Contrast various types of security controls  
-- Technical Controls:
+Examples: Firewalls, encryption, access controls.
 
-Focuses on implementing through technology and software.
-
-*Examples*: Firewalls, encryption, access controls.
-
-Purpose: Safeguarding systems, networks, and data from unauthorized access or alterations.  
+Purpose: Safeguarding systems, networks, and data from unauthorized access or alterations.
 Effective security involves a combination of technical, managerial, operational, and physical controls for comprehensive protection.
 
-- Managerial Controls:
+Managerial Controls:
+These include rules, regulations, and guidelines to monitor and regulate the information system; they are also referred to as administrative controls. 
 
-Focuses on  policies, procedures, and management decisions.
-
-*Examples*: Security policies, risk assessments, training programs.
+Examples: Security policies, risk assessments, training programs.
 
 Purpose: Establishing a security framework, defining roles, and ensuring compliance.
 
-Effective security involves a combination of technical, managerial, operational, and physical controls for comprehensive protection.
+Operational Controls:
+Operational controls are procedures or policies that reduce security risk. Unlike systems, individuals perform these security controls. 
 
-- Operational Controls:
-
-Focuses on involving  day-to-day processes and activities.
-
-*Examples*: Security awareness training, incident response procedures.
+Examples: Security awareness training, incident response procedures.
 
 Purpose: Managing and monitoring security operations, ensuring effective implementation of policies.
 
-Effective security involves a combination of technical, managerial, operational, and physical controls for comprehensive protection.
+Physical Controls:
+A physical control is one that stops certain physical behaviors, such tailgating, from happening. Physical controls shield a system from certain input from people and are mostly intended to stop anything from operating accidentally.
 
-- Physical Controls:
-
-Focuses on pertaining tangible elements, facilities, and equipment.
-
-*Examples*: Biometric access, locks, surveillance systems.
+Examples: Biometric access, locks, surveillance systems.
 
 Purpose: Protecting physical assets, restricting access to sensitive areas.
 
-Effective security involves a combination of technical, managerial, operational, and physical controls for comprehensive protection.
 
-- Technical vs. Managerial:
 
-*Technical:* Relies on technology; Managerial: Involves policies and decisions.
+Technical vs. Managerial:
+Technical: Creates, installs, and keeps track of spyware, malware, and updated security measures on devices. 
 
-- Managerial vs. Operational:
+Managerial: Conducts research, creates, and implements new cybersecurity tactics and trends that can best fit a companies tech safety and policies. 
 
-*Managerial*: Policy-oriented; *Operational*: Day-to-day processes and activities.
+Managerial vs. Operational:
+Managerial: Conducts research, creates, and implements new cybersecurity tactics and trends that can best fit a companies tech safety and policies. 
 
-- Operational vs. Physical:
+Operational: Procedures that reduce security risk performed by individuals  
 
-*Operational*: Daily security activities; *Physical*: Tangible elements and facilities.
+Operational vs. Physical:
+Operational:  Procedures that reduce security risk performed by individuals 
 
-- Physical vs. Technical:
+Physical: Shields systems from certain input from people and are mostly intended to stop anything from operating accidentally.
 
-*Physical*: Tangible security measures; *Technical*: Technology-based controls.
 
-- Preventive Controls:
+Physical vs. Technical:
+Physical:  Shields systems from certain input from people and are mostly intended to stop anything from operating accidentally.
 
-Focuses on aiming to prevent  incidents or unauthorized access.
+Technical: Creates, installs, and keeps track of spyware, malware, and updated security measures on devices. 
 
-*Examples*: Firewalls, access controls, encryption.
+Preventive Controls:
+ It prevents any security breach from occurring. Aimed at preventing an incident from occurring.
+
+Examples: Firewalls, access controls, encryption, proximity cards or biometrics at the entrance to the building
 
 Purpose: Stop security incidents before they occur.
 
-Effective security often involves a combination of preventive, deterrent, detective, corrective, compensating, and directive controls for a comprehensive defense strategy.
+Deterrent Controls:
+Attempts to prevent incidents by discouraging threats. Aimed at discouraging individuals from causing an incident.
 
-- Deterrent Controls:
-
-Focuses on discouraging potential attackers through visible security measures.
-
-*Examples*: Warning signs, security cameras, security patrols.
+Examples: Warning signs, security cameras, security patrols, and hardware locks 
 
 Purpose: Create a deterrent effect to dissuade unauthorized activities.
 
-Effective security often involves a combination of preventive, deterrent, detective, corrective, compensating, and directive controls for a comprehensive defense strategy.
+Detective Controls:
+ Detective controls attempt to detect any break-in that has already happened. Aimed at detecting incidents after they have occurred.
 
-- Detective Controls:
-
-Focuses on identifying  and responding to security incidents after they occur.
-
-*Examples*: Intrusion detection systems, log monitoring.
+Examples:Security audits, log monitoring, video surveillance systems, and motion detection systems
 
 Purpose: Discover and report on security breaches or incidents.
 
-Effective security often involves a combination of preventive, deterrent, detective, corrective, compensating, and directive controls for a comprehensive defense strategy.
 
-- Corrective Controls:
+Corrective Controls:
+Corrective controls attempt to reverse the impact of an incident or problem after it has occurred. Aimed at reversing the impact of an incident.
 
-Focuses on remediating  the effects of security incidents.
-
-*Examples*: Incident response, system restoration.
+Examples: Incident response, backups and system restoration. When an intruder is detected, active intrusion detection systems (IDSs) activate devices that stop the incursion from progressing.
 
 Purpose: Mitigate damage and restore systems to a secure state.
 
-Effective security often involves a combination of preventive, deterrent, detective, corrective, compensating, and directive controls for a comprehensive defense strategy.
+Compensating Controls:
+These are alternative controls used when a primary control is not feasible or when it isn't possible to use the primary control to enhance a primary control.
 
-- Compensating Controls:
-
-Focuses on providing alternative measures when primary controls are ineffective.
-
-*Examples*: Additional monitoring, enhanced authentication.
+Examples: Additional monitoring, enhanced authentication. Preventive control also includes using a PIN or a proximity card.
 
 Purpose: Compensate for weaknesses in other controls.
 
-Effective security often involves a combination of preventive, deterrent, detective, corrective, compensating, and directive controls for a comprehensive defense strategy.
 
-- Directive Controls:
+Directive Controls:
+Created guidelines and requirements that an organization has to follow to in order to maintain security.
 
-Focuses on specify acceptable behaviors and actions.
-
-*Examples*: Policies, standards, procedures.
+Examples: Policies, standards, procedures.
 
 Purpose: Guide individuals and organizations in adhering to security requirements.
 
-Effective security often involves a combination of preventive, deterrent, detective, corrective, compensating, and directive controls for a comprehensive defense strategy.
+Preventive vs. Detective:
+Preventive: Prevents any security breach from occurring. 
 
-- Preventive vs. Detective:
+ Detective: Attempts to detect any break-ins that have already happened. 
 
-*Preventive*: Stop incidents before; *Detective*: Identify incidents after.
+Deterrent vs. Corrective:
+Deterrent: Attempts to prevent incidents by discouraging threats. 
 
-- Deterrent vs. Corrective:
+Corrective: Attempts to reverse the impact of an incident or problem after it has occurred. 
 
-*Deterrent*: Discourage; *Corrective*: Remediate after incidents.
+Compensating vs. Directive:
+Compensating:  Used when a primary control is not feasible or when it isn't possible to use the primary control 
 
-- Compensating vs. Directive:
+Directive:  Requirements that an organization has to follow to in order to maintain security.
 
-*Compensating*: Provide alternatives; *Directive*: Specify acceptable actions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
