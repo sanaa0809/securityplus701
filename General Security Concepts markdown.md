@@ -31,24 +31,28 @@ Purpose: Protecting physical assets, restricting access to sensitive areas.
 
 
 * Technical vs. Managerial:
+  
 Technical: Creates, installs, and keeps track of spyware, malware, and updated security measures on devices.
 
 Managerial: Conducts research, creates, and implements new cybersecurity tactics and trends that can best fit a companies tech safety and policies.
 
 
-* Managerial vs. Operational: 
+* Managerial vs. Operational:
+  
 Managerial: Conducts research, creates, and implements new cybersecurity tactics and trends that can best fit a companies tech safety and policies.
 
 Operational: Procedures that reduce security risk performed by individuals
 
 
 * Operational vs. Physical:
+  
 Operational: Procedures that reduce security risk performed by individuals
 
 Physical: Shields systems from certain input from people and are mostly intended to stop anything from operating accidentally.
 
 
-* Physical vs. Technical: 
+* Physical vs. Technical:
+  
 Physical: Shields systems from certain input from people and are mostly intended to stop anything from operating accidentally.
 
 Technical: Creates, installs, and keeps track of spyware, malware, and updated security measures on devices.
@@ -98,18 +102,21 @@ Purpose: Guide individuals and organizations in adhering to security requirement
 
 
 * Preventive vs. Detective:
+  
 Preventive: Prevents any security breach from occurring.
 
 Detective: Attempts to detect any break-ins that have already happened.
 
 
-* Deterrent vs. Corrective: 
+* Deterrent vs. Corrective:
+  
 Deterrent: Attempts to prevent incidents by discouraging threats.
 
 Corrective: Attempts to reverse the impact of an incident or problem after it has occurred.
 
 
-* Compensating vs. Directive: 
+* Compensating vs. Directive:
+  
 Compensating: Used when a primary control is not feasible or when it isn't possible to use the primary control
 
 Directive: Requirements that an organization has to follow to in order to maintain security.
